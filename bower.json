@@ -1,0 +1,22 @@
+{
+  "name": "multivision",
+  "description": "Extreme Tech Training",
+  "main": "index.js",
+  "authors": [
+    "Muhammad Saad Mateen"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/saad-5690/multivision-web-app",
+  "moduleType": [
+    "node",
+    "yui"
+  ],
+  "private": true,
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "toastr": "^2.1.2",
+    "angular": "^1.5.0",
+    "angular-resource": "^1.5.0",
+    "angular-route": "^1.5.0"
+  }
+}
